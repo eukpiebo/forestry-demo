@@ -28,7 +28,6 @@ show_news: true
 show_staff: false
 menu:
   navigation:
-    name: Home
     identifier: _index
     url: "/"
     weight: 1
